@@ -1,0 +1,6 @@
+{
+    "title": "MCC Base",
+    "type": "servercontent",
+    "tags": ["realism", "roleplay"],
+    "ignore": ["*.md", "tests/*", "*.py"]
+}
